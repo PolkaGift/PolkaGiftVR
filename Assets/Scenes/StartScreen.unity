@@ -1990,8 +1990,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c065c0c019aef0d4bb31b8d193e3bdc4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  EventApiUrl: https://demetercoin-tron.onrender.com/api/getallevents
-  NftsByEventIdApiUrl: https://demetercoin-tron.onrender.com/api/GetAllNftsbyEventID/
+  EventApiUrl: https://polkagift.vercel.app/api/getallevents
+  NftsByEventIdApiUrl: https://polkagift.vercel.app/api/GetAllNftsbyEventID/
   ResponseFrontText: '{"eventData":'
   NftResponseFrontText: '{"eventNFTData":'
   UICanvas: {fileID: 1003664318}
